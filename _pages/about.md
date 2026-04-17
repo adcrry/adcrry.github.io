@@ -9,23 +9,15 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="mailto:name.surname@university.edu">name.surname@university.edu</a></p>
+    <p><a href="mailto:name.surname@university.edu">firstname(dot]lastname@minesparis.psl.eu</a></p>
 ---
 
-I am an academic at the [University](https//www.universitywebsite.com). I'm currently in the process of building by website. 
+Hey! I am a Master’s student in Machine Learning at École Normale Supérieure Paris-Saclay, with a background in mathematics and computer science from École Nationale des Ponts et Chaussées. My academic training focuses on machine learning, statistical modeling, and applied mathematics, including topics such as deep learning, optimization, and data analysis. I am currently completing my final internship at the Center for Bioinformatics of Mines Paris, where I work on representation learning for RNA sequences under the supervision of Vincent Mallet and Wissam Karroucha.
 
-**My research interests lie in**
+## Research and Experience
 
-- **Interest 1.**
-- **Interest 2.**
-- **Interest 3.**
+I have completed research internships at the French Atomic Energy Commission (CEA), where I worked on neural network approaches for approximating solutions to partial differential equations, and at Callyope, where I applied large language models and speech processing techniques to analyze mental health indicators in patient interviews. This work led to several research papers, including contributions presented at Interspeech 2025.
 
-If you’d like to chat, feel free to reach out via <a href="mailto:name.surname@university.edu">name.surname@university.edu</a>
+In parallel, I have worked as a freelance full-stack developer, building web and mobile applications using Django, React, and React Native. I have developed and deployed applications for both individual users and organizations, with a focus on functionality and scalability.
 
-## Talks
-
-I'll give talks at the following venues:
-
-- Venue 1 : *Title 1*
-- Venue 2 : *Title 2*
-- Venue 3 : *Title 3*
+My main interests lie in representation learning, particularly in applications to speech and biology.
