@@ -93,7 +93,7 @@ Nov. 2023 – Present
   *Robust fine-tuning of speech recognition models via model merging: application to disordered speech*  
   Accepted at Interspeech, 2025  
 
-- F. Roquefort, **A. Ducorroy, R. Riad
+- F. Roquefort, **A. Ducorroy**, R. Riad
   *In-context learning capabilities of Large Language Models to detect suicide risk among adolescents from speech transcripts*  
   Accepted at Interspeech, 2025  
 
