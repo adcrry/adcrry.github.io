@@ -9,10 +9,12 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="mailto:name.surname@university.edu">firstname(dot]lastname@minesparis.psl.eu</a></p>
+    <p><a href="mailto:name.surname@university.edu">firstname.lastname@minesparis.psl.eu</a></p>
 ---
 
-Hey! I am a Master’s student in Machine Learning at École Normale Supérieure Paris-Saclay, with a background in mathematics and computer science from École Nationale des Ponts et Chaussées. My academic training focuses on machine learning, statistical modeling, and applied mathematics, including topics such as deep learning, optimization, and data analysis. I am currently completing my final internship at the Center for Bioinformatics of Mines Paris, where I work on representation learning for RNA sequences under the supervision of Vincent Mallet and Wissam Karroucha.
+Hey! I am a Master’s student in Machine Learning at École Normale Supérieure Paris-Saclay, with a background in mathematics and computer science from École Nationale des Ponts et Chaussées. My academic training focuses on machine learning, statistical modeling, and applied mathematics, including topics such as deep learning, optimization, and data analysis. 
+
+I am currently completing my final internship at the Center for Bioinformatics of Mines Paris, where I work on representation learning for RNA sequences under the supervision of Vincent Mallet and Wissam Karroucha.
 
 ## Research and Experience
 
