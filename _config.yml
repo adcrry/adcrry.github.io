@@ -106,8 +106,8 @@ sass:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Surname]
-  first_name: [Name, N]
+  last_name: [DUCORROY]
+  first_name: [Alexandre, A.]
 
   style: apa
   locale: en
